@@ -73,6 +73,11 @@ The objective of this project is to provide a basic file compression and decompr
 
 ### **Step 1: Build the Program**
 To compile the program, you can use a C++ compiler like `g++`. Ensure that the `-pthread` flag is used to enable multithreading support:
-
+---
+## Output
+![image](https://github.com/user-attachments/assets/9c53cfb0-0840-4a19-9d05-2fb0d077fd1c)
+---
 ```bash
 g++ -o file_compressor file_compressor.cpp -std=c++11 -pthread
+
+
