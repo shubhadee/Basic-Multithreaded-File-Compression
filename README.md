@@ -7,8 +7,6 @@
 **Project Duration**: December 20th, 2024 - January 20th, 2025 
 ---
 
-# Basic-Multithreaded-File-Compression
-
 ## Objective
 
 The objective of this project is to provide a basic file compression and decompression utility written in C++, leveraging multithreading to efficiently handle large files. The program reads an input file, divides it into smaller chunks, compresses or decompresses each chunk in parallel, and writes the result to an output file. This project aims to demonstrate how multithreading can be utilized to speed up file processing tasks, particularly for large files, without implementing a complex compression algorithm.
